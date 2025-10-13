@@ -17,8 +17,3 @@ function getMul(a, b) {
 function getDiv(a, b) {
   return a / b;
 }
-
-// if sum
-function getIfSum(a, b) {
-  if ( a > 0 ) return a + b; 
-}
