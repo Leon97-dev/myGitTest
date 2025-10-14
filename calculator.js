@@ -17,5 +17,3 @@ function getMul(a, b) {
 function getDiv(a, b) {
   return a / b;
 }
-
-여기까지 무료 버전입니다.
