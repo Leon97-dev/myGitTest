@@ -18,3 +18,4 @@ function getDiv(a, b) {
   return a / b;
 }
 여기까지 무료 버전입니다.
+추후 유료 버전 패치 예정입니다.
