@@ -22,7 +22,7 @@ function getDivide(a, b) {
 // 추후 유료 버전 패치 예정입니다.
 
 const Today = new Date();
-console.log(`패치 날짜: ${Today}, 패치 버전: 1.1.0`);
+console.log(`패치 날짜: ${Today}, 패치 버전: 1.1.1`);
 
 // if sum
 function getIfSum(a, b) {
